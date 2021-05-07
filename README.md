@@ -12,5 +12,5 @@ Passport bot is discord bot that can be used to generate images of fictional pas
 1. Instead of templates you can use design from our discord server if you want
 1. Open data.json and fill out your desired prefix, path to selected font ("fonts\fontname.ttf) and your token
 1. Run bot.py
-##Usage
+## Usage
 Run "prefix"generatepassport and use letter to represent your gender as argument.
